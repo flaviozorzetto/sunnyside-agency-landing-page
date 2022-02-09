@@ -96,6 +96,7 @@ body, p, h1, h2, li, ul {
 
 .burger-menu {
     display: flex;
+    cursor: default;
     flex-direction: column;
     align-items: center;
     justify-content: center;
